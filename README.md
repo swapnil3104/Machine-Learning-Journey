@@ -17,7 +17,8 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 | Day 07 | Basics of Matplotlib | ✅ Completed |
 | Day 08 | Basics of seaborn in python | ✅ Completed |
 | Day 09 | EDA Unilateral | ✅ Completed |
-| Day 10 | EDA Bilateral and Multilateral | 🔄 In Progress |
+| Day 10 | EDA Bilateral and Multilateral | ✅ Completed |
+| Day 11 | Feature Engineering | 🔄 In Progress |
 
 **Current Streak:** 🔥 5 Days
 
