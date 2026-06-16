@@ -20,7 +20,7 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 | Day 10 | EDA Bilateral and Multilateral | ✅ Completed |
 | Day 11 | Feature Engineering | 🔄 In Progress |
 
-**Current Streak:** 🔥 5 Days
+**Current Streak:** 🔥 6 Days
 
 ---
 
