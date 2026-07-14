@@ -18,7 +18,7 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 | Day 08 | Basics of seaborn in python | ✅ Completed |
 | Day 09 | EDA Unilateral | ✅ Completed |
 | Day 10 | EDA Bilateral and Multilateral | ✅ Completed |
-| Day 11 | Feature Engineering | 🔄 In Progress |
+| Day 11 | Feature Scaling - Standardization | ✅ Completed |
 | Day 11 | Feature Engineering | 🔄 In Progress |
 
 ---
