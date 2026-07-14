@@ -6,20 +6,20 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 
 ## 📈 Learning Progress
 
-| Day | Topic | Status |
-|------|--------|--------|
-| Day 01 | Python for ML | ✅ Completed |
-| Day 02 | NumPy Basics | ✅ Completed |
-| Day 03 | Pandas Fundamentals | ✅ Completed |
-| Day 04 | Data Visualization | ✅ Completed |
-| Day 05 | Statistics for ML | ✅ Completed |
-| Day 06 | Created a ML Repo and Started Uploding | ✅ Completed |
-| Day 07 | Basics of Matplotlib | ✅ Completed |
-| Day 08 | Basics of seaborn in python | ✅ Completed |
-| Day 09 | EDA Unilateral | ✅ Completed |
-| Day 10 | EDA Bilateral and Multilateral | ✅ Completed |
-| Day 11 | Feature Scaling - Standardization | ✅ Completed |
-| Day 11 | Feature Engineering | 🔄 In Progress |
+| Topic | Status | Link |
+|--------|--------|------|
+| Python for ML | ✅ Completed | [Link](https://your-link.com/python-for-ml) |
+| NumPy Basics | ✅ Completed | [Link](https://your-link.com/numpy-basics) |
+| Pandas Fundamentals | ✅ Completed | [Link](https://your-link.com/pandas-fundamentals) |
+| Data Visualization | ✅ Completed | [Link](https://your-link.com/data-visualization) |
+| Statistics for ML | ✅ Completed | [Link](https://your-link.com/statistics-for-ml) |
+| Created a ML Repo and Started Uploading | ✅ Completed | [Link](https://your-link.com/ml-repo) |
+| Basics of Matplotlib | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Matplotlib) |
+| Basics of Seaborn in Python | ✅ Completed | [Link](https://your-link.com/seaborn-basics) |
+| EDA Unilateral | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/EDA) |
+| EDA Bilateral and Multilateral | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/EDA) |
+| Feature Scaling - Standardization | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Scaling%20-%20Standardization) |
+| Feature Engineering | 🔄 In Progress | [Link](https://your-link.com/feature-engineering) |
 
 ---
 
