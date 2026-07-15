@@ -18,8 +18,12 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 | Basics of Seaborn in Python | ✅ Completed | [Link](https://your-link.com/seaborn-basics) |
 | EDA Unilateral | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/EDA) |
 | EDA Bilateral and Multilateral | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/EDA) |
-| Feature Scaling - Standardization | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Scaling%20-%20Standardization) |
-| Feature Engineering | 🔄 In Progress | [Link](https://your-link.com/feature-engineering) |
+| Feature Engineering | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering) |
+| Feature Scaling - Standardization | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Feature%20Scaling%20-%20Standardization) |
+| Feature Scaling - Normalization | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Feature%20Scaling%20-%20Normalization) |
+| Encoding Categorical Data | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data) |
+| One Hot Encoding | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data/One%20Hot%20Encoding) |
+| Ordinal Encoding | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data/Ordinal%20Encoding) |
 
 ---
 
