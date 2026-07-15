@@ -24,6 +24,7 @@ Documenting my journey of learning Machine Learning, Deep Learning, and AI throu
 | Encoding Categorical Data | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data) |
 | One Hot Encoding | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data/One%20Hot%20Encoding) |
 | Ordinal Encoding | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Feature%20Engineering/Encoding%20Categorical%20Data/Ordinal%20Encoding) |
+| Column Transformer | ✅ Completed | [Link](https://github.com/swapnil3104/Machine-Learning-Journey/tree/main/Column%20Transformer%20in%20Machine%20Learning) |
 
 ---
 
