@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>💼 Salary Prediction</h1>
+
+    <p>Predict salary using years of experience.</p>
+
+    <form action="/predict" method="POST">
+
+        <label>Years of Experience</label>
+
+        <input
+            type="number"
+            name="experience"
+            step="0.1"
+            min="0"
+            placeholder="Example: 5"
+            required
+        >
+
+        <button type="submit">
+            Predict Salary
+        </button>
+
+    </form>
+
+    {% if prediction %}
+        <div class="result">
+            <h2>Predicted Salary</h2>
+            <h3>${{ prediction }}</h3>
+        </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
