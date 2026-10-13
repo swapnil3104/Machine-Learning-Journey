@@ -1,5 +1,29 @@
 # 🔀 Column Transformer in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Column Transformer** sub-module! Real-world datasets mix numeric, categorical, and text features. Scikit-Learn's `ColumnTransformer` allows you to apply targeted preprocessing pipelines to specific column subsets simultaneously.
+
+### Why is this topic important?
+Without `ColumnTransformer`, engineers must manually slice DataFrames, apply scalers and encoders separately, and concatenate arrays, introducing data leakage risks and error-prone code. `ColumnTransformer` automates this cleanly.
+
+### What You Will Learn
+- Combining `OneHotEncoder`, `StandardScaler`, and `SimpleImputer` across heterogeneous columns.
+- Utilizing `remainder='passthrough'` vs `remainder='drop'`.
+- Nesting ColumnTransformers inside Scikit-Learn `Pipeline`.
+
+---
+
+## 📂 File Structure
+
+```text
+01_Column Transformer in Machine Learning/
+├── Column Transformer.ipynb
+├── covid_toy.csv
+└── README.md
+```
+
+---
+
 > **ColumnTransformer** is a preprocessing utility in **Scikit-learn** that allows you to apply **different preprocessing techniques to different columns** of a dataset within a single pipeline.
 
 It is one of the most useful tools when working with **mixed data types** (numerical + categorical + text).

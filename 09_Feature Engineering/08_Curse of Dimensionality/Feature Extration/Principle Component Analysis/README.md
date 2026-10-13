@@ -1,3 +1,29 @@
+# 📉 Principal Component Analysis (PCA) in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Principal Component Analysis (PCA)** sub-module! PCA is the most widely adopted unsupervised linear dimensionality reduction algorithm. It projects high-dimensional data onto orthogonal axes that maximize variance.
+
+### Why is this topic important?
+When working with dozens or hundreds of correlated features, PCA eliminates multicollinearity, reduces computational cost, and compresses datasets while preserving the majority of the underlying information and variance.
+
+### What You Will Learn
+- Mathematical foundations: Covariance matrices, Eigenvalues, and Eigenvectors.
+- Step-by-step PCA calculation from scratch using NumPy.
+- Scikit-Learn `PCA` implementation and Explained Variance Ratio analysis.
+- Choosing optimal components using Elbow Method and Cumulative Variance thresholds.
+
+---
+
+## 📂 File Structure
+
+```text
+Principle Component Analysis/
+├── pca_step_by_step (1).ipynb
+└── README.md
+```
+
+---
+
 # 📊 Principal Component Analysis (PCA) in Machine Learning
 
 > **Note:** The standard term is **Principal Component Analysis (PCA)**.

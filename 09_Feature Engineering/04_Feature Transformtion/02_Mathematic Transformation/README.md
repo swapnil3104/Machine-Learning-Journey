@@ -1,5 +1,35 @@
 # 📐 Mathematical Transformations in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Mathematical Transformations** sub-module! Many parametric models (Linear Regression, Logistic Regression, Naive Bayes) assume that features follow Gaussian normal distributions. This module explores non-linear transformations to achieve normality.
+
+### Why is this topic important?
+Heavily right-skewed or left-skewed features distort loss gradients and degrade linear model predictions. Mathematical transformations stabilize variance and compress long-tailed outlier distributions.
+
+### What You Will Learn
+- Function transformations: Log (`np.log1p`), Reciprocal ($1/x$), and Square Root ($\sqrt{x}$).
+- Power transformations: Box-Cox (for positive values) and Yeo-Johnson (for positive and negative values).
+- Visual normality verification using Q-Q Plots and KDE distributions.
+
+---
+
+## 📂 File Structure
+
+```text
+02_Mathematic Transformation/
+├── Funtion Transform/
+│   ├── california_housing.csv
+│   ├── Example.ipynb
+│   ├── Function_Transformation_California_Housing.ipynb
+│   └── train.csv
+├── Power Transform/
+│   ├── concrete_data.csv
+│   └── Example.ipynb
+└── README.md
+```
+
+---
+
 > **A complete learning resource covering mathematical transformations, feature transformations, probability transformations, optimization, normalization, scaling, dimensionality reduction, and advanced mathematical concepts used in Machine Learning.**
 
 ---

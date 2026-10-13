@@ -1,3 +1,31 @@
+# 📊 Binning & Discretization in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Binning & Discretization** sub-module! Binning converts continuous numerical feature distributions into categorical or discrete intervals. It helps control the impact of outliers, handles non-linear relationships, and creates interpretable bins for machine learning algorithms.
+
+### Why is this topic important?
+Continuous features often contain noise, long-tail outliers, or non-linear predictive boundaries. By transforming raw values into discrete bins (Uniform, Quantile, or K-Means clustering bins) or binarizing them with a threshold, models can avoid overfitting and enhance decision stability.
+
+### What You Will Learn
+- Unsupervised binning strategies: Equal Width (Uniform) vs Equal Frequency (Quantile) binning.
+- Discretization with Scikit-Learn `KBinsDiscretizer` and Pandas `pd.cut()` / `pd.qcut()`.
+- Binarization using `Binarizer` threshold transformations.
+- Handling outliers and sparse intervals via bin engineering.
+
+---
+
+## 📂 File Structure
+
+```text
+Binning/
+├── binarization.ipynb
+├── Example.ipynb
+├── README.md
+└── train.csv
+```
+
+---
+
 # 📊 Binning in Machine Learning
 
 > **Binning** is a feature engineering technique that converts continuous numerical values into a small number of meaningful intervals (bins).

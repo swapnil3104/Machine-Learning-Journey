@@ -44,9 +44,9 @@ Organized logically from JSON syntax to nested array normalization:
 
 ```text
 06_Json/
-├── README.md
 ├── Example.ipynb
 ├── json.ipynb
+├── README.md
 ├── test.json
 └── train.json
 ```

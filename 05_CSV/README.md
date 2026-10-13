@@ -44,8 +44,8 @@ Organized logically from standard file reading to advanced Pandas parameters:
 
 ```text
 05_CSV/
-├── README.md
 ├── CSV.ipynb
+├── README.md
 ├── student-data.csv
 └── working-with-csv.ipynb
 ```

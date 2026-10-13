@@ -1,3 +1,32 @@
+# 🌌 Curse of Dimensionality in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Curse of Dimensionality** module! As the number of features (dimensions) increases, the volume of the feature space grows exponentially, causing available data to become sparse. This module explores why high dimensionality degrades machine learning models and how dimensionality reduction resolves it.
+
+### Why is this topic important?
+In high-dimensional spaces, distance metrics (such as Euclidean distance) lose discriminative power, causing nearest-neighbor and clustering algorithms to fail. High dimensionality also increases model complexity, training latency, and the likelihood of severe overfitting.
+
+### What You Will Learn
+- Geometric intuition of hyperspheres and hypercubes in high dimensions.
+- Distance concentration phenomena and Euclidean metric degradation.
+- Data sparsity and exponentially increasing sample size requirements.
+- Core mitigation techniques: Feature Selection vs Feature Extraction (PCA).
+
+---
+
+## 📂 File Structure
+
+```text
+08_Curse of Dimensionality/
+├── Feature Extration/
+│   └── Principle Component Analysis/
+│       ├── pca_step_by_step (1).ipynb
+│       └── README.md
+└── README.md
+```
+
+---
+
 # 📘 Curse of Dimensionality in Machine Learning
 
 > **The Curse of Dimensionality** refers to the problems that arise when the number of features (dimensions) in a dataset becomes very large relative to the number of observations. As dimensionality increases, data becomes increasingly sparse, distance measures become less meaningful, models require more data and computation, and the risk of overfitting increases.

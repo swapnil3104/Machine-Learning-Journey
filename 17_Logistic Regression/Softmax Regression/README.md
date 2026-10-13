@@ -1,3 +1,28 @@
+# 🎯 Softmax Regression (Multinomial Logistic Regression)
+
+## 📌 Module Overview
+Welcome to the **Softmax Regression** sub-module! Softmax Regression extends binary Logistic Regression to multiclass classification where classes are mutually exclusive, outputting normalized probability distributions across all classes.
+
+### Why is this topic important?
+Rather than training multiple binary One-vs-Rest (OvR) classifiers, Softmax Regression models multinomial probability directly using the Softmax activation function and Categorical Cross-Entropy loss.
+
+### What You Will Learn
+- Mathematical derivation: Logits, Softmax exponentiation, and probability normalization.
+- Multi-class Cross-Entropy loss function and gradient computation.
+- Decision boundaries for multiclass classification.
+- Scikit-Learn implementation via `LogisticRegression(multi_class='multinomial')`.
+
+---
+
+## 📂 File Structure
+
+```text
+Softmax Regression/
+└── README.md
+```
+
+---
+
 # 📘 Softmax Regression — Complete Notes
 
 ## 📑 Table of Contents

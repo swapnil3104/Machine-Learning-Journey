@@ -1,5 +1,32 @@
 # 🚀 Boosting in Machine Learning --- Complete Notes
 
+## 📌 Module Overview
+Welcome to the **Boosting** module! Boosting is a sequential ensemble learning paradigm where base models are trained iteratively, each model focusing on correcting the mistakes and residual errors made by preceding models.
+
+### Why is this topic important?
+Unlike Bagging (which primarily reduces variance), Boosting converts weak learners with high bias into strong, highly accurate predictive models. Boosting algorithms (AdaBoost, Gradient Boosting, XGBoost, LightGBM) dominate tabular machine learning competitions and industrial ranking systems.
+
+### What You Will Learn
+- Sequential learning intuition and sample re-weighting mechanics.
+- Adaptive Boosting (AdaBoost) vs Gradient Boosting (GBDT).
+- Loss optimization via functional gradient descent in prediction space.
+- Hyperparameter regularization: Learning rate (shrinkage) and tree depth limits.
+
+---
+
+## 📂 File Structure
+
+```text
+Boosting/
+├── Adaboost Classifier/
+│   ├── adaboost-hyperparameter.ipynb
+│   ├── adaboost_demo.ipynb
+│   └── README.md
+└── README.md
+```
+
+---
+
 ## 📚 Table of Contents
 
 1.  [Introduction to Ensemble

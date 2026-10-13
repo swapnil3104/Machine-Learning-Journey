@@ -1,3 +1,36 @@
+# 🌲 Random Forest in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Random Forest** sub-module! Random Forest is one of the most powerful and versatile ensemble algorithms in modern machine learning. It enhances Bagging by introducing **Random Feature Subspace Sampling** at every tree split.
+
+### Why is this topic important?
+By de-correlating individual decision trees, Random Forest achieves substantial variance reduction and avoids overfitting, delivering state-of-the-art accuracy on tabular classification and regression tasks while providing feature importance rankings.
+
+### What You Will Learn
+- Dual randomization: Bootstrap aggregating (sample-level) + Random feature subset selection (split-level).
+- Out-Of-Bag (OOB) error estimation as a built-in cross-validation mechanism.
+- Feature importance calculation (Mean Decrease in Impurity vs Permutation Importance).
+- Hyperparameter tuning (`n_estimators`, `max_depth`, `max_features`, `min_samples_split`).
+
+---
+
+## 📂 File Structure
+
+```text
+Random Forest/
+├── bagging_vs_random_forest.ipynb
+├── code-example-random-forest.ipynb
+├── feature-importance-in-sklearn.ipynb
+├── heart.csv
+├── how-feature-importance-is-calculated.ipynb
+├── oob-score-demo.ipynb
+├── random_forest_demo.ipynb
+├── README.md
+└── rf_learning_tool.ipynb
+```
+
+---
+
 # 🌳 Random Forest in Machine Learning
 
 ## 📚 Table of Contents

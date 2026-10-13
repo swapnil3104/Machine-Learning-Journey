@@ -1,5 +1,29 @@
 # 🚀 AdaBoost (Adaptive Boosting) --- Complete Machine Learning Notes
 
+## 📌 Module Overview
+Welcome to the **AdaBoost (Adaptive Boosting)** sub-module! AdaBoost is the foundational boosting algorithm that adapts by assigning higher weights to misclassified instances after each training iteration.
+
+### Why is this topic important?
+AdaBoost demonstrates how simple decision stumps (1-split trees) can be chained together using mathematical model weights ($lpha$) to create an exponential-loss minimizing, high-performance classifier.
+
+### What You Will Learn
+- Step-by-step mathematical algorithm: Sample weights $w_i$, error rate $\epsilon_t$, and learner importance $lpha_t$.
+- Exponential loss minimization and decision boundary construction.
+- Scikit-Learn `AdaBoostClassifier` implementation and parameter tuning (`n_estimators`, `learning_rate`).
+
+---
+
+## 📂 File Structure
+
+```text
+Adaboost Classifier/
+├── adaboost-hyperparameter.ipynb
+├── adaboost_demo.ipynb
+└── README.md
+```
+
+---
+
 ## 📚 Table of Contents
 
 1.  [Introduction to Boosting](#1--introduction-to-boosting)

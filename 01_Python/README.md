@@ -50,11 +50,11 @@ Organized logically from fundamental concepts to core data structures:
 
 ```text
 01_Python/
-├── README.md
-├── 0_helloword.py
 ├── 01_Variables.ipynb
 ├── 02_Datatype.ipynb
 ├── 03_Python Operators.ipynb
 ├── 04_List.ipynb
-└── 05_Tuple.ipynb
+├── 05_Tuple.ipynb
+├── 0_helloword.py
+└── README.md
 ```

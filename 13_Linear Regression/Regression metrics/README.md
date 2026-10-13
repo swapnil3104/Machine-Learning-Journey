@@ -1,3 +1,30 @@
+# 📏 Regression Evaluation Metrics in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Regression Metrics** sub-module! Evaluating continuous regression models requires quantitative measures that capture prediction error scale, penalize extreme deviations, and measure goodness-of-fit against baseline averages.
+
+### Why is this topic important?
+Selecting the correct regression metric determines whether your model is optimized for robustness against outliers (MAE), penalization of large catastrophic errors (MSE/RMSE), percentage accuracy (MAPE), or variance explanation ($R^2$ / Adjusted $R^2$).
+
+### What You Will Learn
+- Mathematical definitions and derivations of MAE, MSE, RMSE, RMSLE, and MAPE.
+- Goodness-of-fit: $R^2$ Score vs Adjusted $R^2$ Score (feature penalty).
+- Residual analysis: Residual plots, homoscedasticity inspection, and error distribution.
+- Implementing regression evaluation with `sklearn.metrics`.
+
+---
+
+## 📂 File Structure
+
+```text
+Regression metrics/
+├── Example.ipynb
+├── placement.csv
+└── README.md
+```
+
+---
+
 # 📊 Regression Metrics in Machine Learning
 
 > **Regression metrics** are quantitative measures used to evaluate how accurately a machine learning model predicts continuous numerical values.

@@ -1,5 +1,42 @@
 # 🎒 Bagging in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Bagging Ensemble** module! Bootstrap Aggregating (Bagging) trains multiple base estimators independently on bootstrap subsamples of the training dataset and aggregates their predictions via voting or averaging.
+
+### Why is this topic important?
+High-variance models (such as deep, unpruned Decision Trees) overfit training data. Bagging drastically decreases prediction variance without increasing model bias, resulting in significantly more robust generalization.
+
+### What You Will Learn
+- Bootstrap sampling with replacement and its theoretical $63.2\%$ sample coverage.
+- Out-Of-Bag (OOB) error evaluation as a built-in cross-validation metric.
+- Scikit-Learn `BaggingClassifier` and `BaggingRegressor` implementations.
+- Extension into Random Forest via feature subspace randomization.
+
+---
+
+## 📂 File Structure
+
+```text
+Bagging Ensemble/
+├── Bagging/
+│   ├── bagging-learning-tool.ipynb
+│   ├── bagging_demo.ipynb
+│   └── bagging_regression.ipynb
+├── Random Forest/
+│   ├── bagging_vs_random_forest.ipynb
+│   ├── code-example-random-forest.ipynb
+│   ├── feature-importance-in-sklearn.ipynb
+│   ├── heart.csv
+│   ├── how-feature-importance-is-calculated.ipynb
+│   ├── oob-score-demo.ipynb
+│   ├── random_forest_demo.ipynb
+│   ├── README.md
+│   └── rf_learning_tool.ipynb
+└── README.md
+```
+
+---
+
 > **Bagging (Bootstrap Aggregating)** is an ensemble learning technique that trains multiple models independently on different bootstrap samples and combines their predictions to reduce variance and improve generalization.
 
 ## 📚 Table of Contents

@@ -1,3 +1,29 @@
+# ⚙️ Logistic Regression Hyperparameters & Tuning
+
+## 📌 Module Overview
+Welcome to the **Logistic Regression Hyperparameters** sub-module! While Logistic Regression is conceptually clean, optimizing its performance on real-world datasets depends heavily on configuring its solver, regularization penalties, and convergence parameters.
+
+### Why is this topic important?
+Choosing the wrong solver or penalty can result in slow convergence, convergence warnings, or suboptimal classification boundaries. Understanding parameters like `C`, `penalty`, `solver`, `class_weight`, and `max_iter` unlocks maximum performance.
+
+### What You Will Learn
+- Solvers comparison: `lbfgs`, `liblinear`, `saga`, `sag`, and `newton-cg`.
+- Regularization strength: Inverse regularization parameter $C$ and L1/L2/ElasticNet penalties.
+- Imbalanced data handling using `class_weight='balanced'`.
+- Grid Search and Random Search optimization workflows.
+
+---
+
+## 📂 File Structure
+
+```text
+Logistic Regression Hyperparameters/
+├── README.md
+└── streamlit-viz-tool.py
+```
+
+---
+
 # 📘 Logistic Regression Hyperparameters — Complete Notes
 
 ## 📑 Table of Contents

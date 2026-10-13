@@ -39,6 +39,6 @@ Organized logically from HTTP basics to dataset construction:
 
 ```text
 03_API/
-├── README.md
-└── API_Fatching.ipynb
+├── API_Fatching.ipynb
+└── README.md
 ```

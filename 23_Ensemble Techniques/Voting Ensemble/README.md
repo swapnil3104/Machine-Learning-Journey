@@ -1,5 +1,31 @@
 # 🗳️ Voting Ensemble in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Voting Ensemble** module! Voting combines predictions across heterogeneous machine learning models (e.g., Logistic Regression, Support Vector Machines, Random Forest) to produce a collective consensus decision.
+
+### Why is this topic important?
+Different algorithms make different errors on different regions of feature space. Combining diverse estimators smooths out individual weaknesses, providing superior stability and accuracy compared to any single constituent model.
+
+### What You Will Learn
+- **Hard Voting**: Majority rule classification based on predicted discrete class labels.
+- **Soft Voting**: Argmax of averaged predicted class probabilities (giving higher confidence weight).
+- **Weighted Voting**: Assigning custom importance weights to top-performing base estimators.
+- Scikit-Learn `VotingClassifier` and `VotingRegressor` implementation.
+
+---
+
+## 📂 File Structure
+
+```text
+Voting Ensemble/
+├── Iris.csv
+├── README.md
+├── voting-classifier-iris.ipynb
+└── voting_regressor.ipynb
+```
+
+---
+
 > A complete learning resource covering hard voting, soft voting, weighted voting, mathematics, implementation, evaluation, best practices, common mistakes, and a practical mini-project.
 
 ## 📚 Table of Contents

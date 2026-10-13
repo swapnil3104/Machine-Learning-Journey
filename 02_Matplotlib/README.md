@@ -47,13 +47,13 @@ Organized logically from basic chart creation to multi-dataset analysis:
 
 ```text
 02_Matplotlib/
-├── README.md
 ├── Basic_matplotlib.ipynb
-├── Matplotlib.ipynb
 ├── batsman_season_record.csv
 ├── batter.csv
 ├── fours-sixes.csv
 ├── gayle-175.csv
+├── Matplotlib.ipynb
+├── README.md
 ├── sharma-kohli.csv
 └── vk.csv
 ```

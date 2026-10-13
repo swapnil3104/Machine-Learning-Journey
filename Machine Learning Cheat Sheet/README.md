@@ -58,7 +58,7 @@ Organized logically across core machine learning domains:
 
 ```text
 Machine Learning Cheat Sheet/
-├── README.md
+├── Bagging Ensemble Cheat Sheet.png
 ├── Bias–Variance Trade-Off Cheat Sheet.png
 ├── Decision Tree Machine Learning Cheat Sheet.png
 ├── Exploratory Data Analysis Cheat Sheet.png
@@ -69,8 +69,11 @@ Machine Learning Cheat Sheet/
 ├── Multiple Linear Regression Cheat Sheet.png
 ├── Naive Bayes Classifier Study Cheat-Sheet.png
 ├── Polynomial Regression Cheat Sheet.png
+├── Random Forest Classification and Regression Cheat Sheet.png
+├── README.md
 ├── Regression Trees Cheat Sheet Infographic.png
 ├── Ridge Regression Machine Learning Cheat Sheet.png
 ├── Simple Linear Regression Study Cheat-Sheet.png
-└── Support Vector Machines Cheat Sheet.png
+├── Support Vector Machines Cheat Sheet.png
+└── Voting Ensemble Cheat Sheet.png
 ```

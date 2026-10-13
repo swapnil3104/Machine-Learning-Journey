@@ -1,5 +1,33 @@
 # 🔤 Encoding Categorical Data in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Categorical Data Encoding** sub-module! Machine learning models require numerical feature inputs. This folder covers techniques for converting nominal and ordinal categories into structured numerical vectors.
+
+### Why is this topic important?
+Improper encoding can either introduce false ordinal hierarchies (e.g., arbitrarily encoding cities as 1, 2, 3) or cause high-dimensional sparsity and dummy variable traps (e.g., unbounded One-Hot Encoding on high cardinality features).
+
+### What You Will Learn
+- Nominal encoding: One-Hot Encoding (OHE) with `drop='first'` to avoid collinearity.
+- Ordinal encoding: Preserving natural ordering (e.g., Education, Ratings, T-shirt sizes).
+- Handling infrequent / rare categories and unseen labels during inference.
+
+---
+
+## 📂 File Structure
+
+```text
+Encoding Categorical Data/
+├── One Hot Encoding/
+│   ├── cars.csv
+│   └── one-hot-encoding.ipynb
+├── Ordinal Encoding/
+│   ├── customer.csv
+│   └── Ordinal Encoding.ipynb
+└── README.md
+```
+
+---
+
 > **Categorical Encoding** is the process of converting categorical (text) data into numerical values so that machine learning algorithms can understand and process it.
 
 ---

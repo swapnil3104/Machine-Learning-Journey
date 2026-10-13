@@ -1,3 +1,30 @@
+# 🌳 Regression Trees in Machine Learning
+
+## 📌 Module Overview
+Welcome to the **Regression Tree** sub-module! Regression Trees apply recursive binary splitting to predict continuous numerical targets, producing piecewise constant step-wise approximations of non-linear target functions.
+
+### Why is this topic important?
+Unlike linear regression, Regression Trees capture complex non-linear feature interactions and threshold effects without requiring feature scaling or transformation. They form the foundational base learners for Random Forest Regressors and Gradient Boosted Trees.
+
+### What You Will Learn
+- Recursive partitioning based on Mean Squared Error (MSE) reduction.
+- Leaf node prediction value calculation (mean of target values in partition).
+- Pruning strategies (`ccp_alpha`, `max_depth`, `min_samples_leaf`) to combat overfitting.
+- Hands-on evaluation on continuous datasets (e.g., California Housing).
+
+---
+
+## 📂 File Structure
+
+```text
+Regression Tree/
+├── California Housing.ipynb
+├── README.md
+└── regression_tree_example(1).ipynb
+```
+
+---
+
 # 🌳 Regression Tree in Machine Learning
 
 > A complete learning resource covering Regression Tree fundamentals, terminology, splitting criteria, mathematical formulas, pruning, hyperparameters, Scikit-Learn implementation, evaluation metrics, real-world use cases, best practices, common mistakes, interview questions, and a practical mini-project.

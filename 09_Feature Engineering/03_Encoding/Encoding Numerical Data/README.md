@@ -1,5 +1,32 @@
 # 🔢 Encoding Numerical Data in Machine Learning
 
+## 📌 Module Overview
+Welcome to the **Numerical Data Encoding & Discretization** sub-module! Continuous numerical features often benefit from binning, interval discretizing, scaling, and non-linear mathematical transformations.
+
+### Why is this topic important?
+Discretization simplifies non-linear relationships, reduces sensitivity to extreme outliers, and creates meaningful domain-specific categorical cohorts for both linear and tree-based estimators.
+
+### What You Will Learn
+- Equal Width Binning vs Equal Frequency (Quantile) Binning.
+- Binarization techniques for converting continuous measurements into binary threshold flags.
+- Discretization pipelines using Scikit-Learn `KBinsDiscretizer`.
+
+---
+
+## 📂 File Structure
+
+```text
+Encoding Numerical Data/
+├── Binning/
+│   ├── binarization.ipynb
+│   ├── Example.ipynb
+│   ├── README.md
+│   └── train.csv
+└── README.md
+```
+
+---
+
 > A complete learning resource covering numerical data encoding, scaling, transformation, discretization, normalization, standardization, practical implementation, best practices, common mistakes, and advanced techniques.
 
 ---
