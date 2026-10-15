@@ -22,6 +22,16 @@ Boosting/
 │   ├── adaboost-hyperparameter.ipynb
 │   ├── adaboost_demo.ipynb
 │   └── README.md
+├── Gradient Boosting/
+│   ├── gradient_boost_step_by_step.ipynb
+│   ├── gradient_boosting_classification.ipynb
+│   ├── gradient_boosting_classification_demo.ipynb
+│   └── README.md
+├── XGBOOST/
+│   ├── Wholesale-customers-data.csv
+│   ├── XGboost_ A Scalable Tree Boosting System.pdf
+│   ├── XGboost_example.ipynb
+│   └── README.md
 └── README.md
 ```
 

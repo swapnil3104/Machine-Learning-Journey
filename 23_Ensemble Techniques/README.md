@@ -44,7 +44,20 @@ Organized logically from basic aggregation to state-of-the-art gradient boosting
 | **Voting / Averaging** | Hard Voting, Soft Voting, Weighted Mean | Direct prediction aggregation | Reduces variance |
 | **Bagging** | Random Forest, Extra Trees, BaggingClassifier | Parallel bootstrap + feature sampling | Drastically reduces variance |
 | **Boosting** | AdaBoost, GBDT, XGBoost, LightGBM, CatBoost | Sequential error / residual correction | Reduces bias and variance |
-| **Stacking** | Multi-layer Stacking, Blending | Meta-learner trained on base predictions | Maximizes predictive accuracy |
+| **Stacking & Blending** | Multi-layer Stacking, Blending, Out-of-Fold | Meta-learner trained on base predictions | Maximizes predictive accuracy |
+
+### 🧭 Module Directory & Notebook Mapping
+
+| Module / Family | Directory / Notebooks | Key Algorithms & Focus | Level |
+| :--- | :--- | :--- | :--- |
+| **Voting Ensemble** | `Voting Ensemble/` | Hard vs Soft voting (`voting-classifier-iris.ipynb`), `voting_regressor.ipynb` | Beginner |
+| **Bagging Ensemble** | `Bagging Ensemble/Bagging/` | Bootstrap aggregation (`bagging_demo.ipynb`, `bagging_regression.ipynb`, `bagging-learning-tool.ipynb`) | Intermediate |
+| **Random Forest** | `Bagging Ensemble/Random Forest/` | Feature bagging, Out-of-Bag (OOB) scoring, Feature Importance calculation | Intermediate |
+| **AdaBoost** | `Boosting/Adaboost Classifier/` | Adaptive boosting (`adaboost_demo.ipynb`, `adaboost-hyperparameter.ipynb`) | Advanced |
+| **Gradient Boosting** | `Boosting/Gradient Boosting/` | Residual fitting, classification demo, step-by-step mathematical formulation | Advanced |
+| **XGBoost** | `Boosting/XGBOOST/` | Scalable tree boosting, regularized objective (`XGboost_example.ipynb`) | Advanced |
+| **Stacking & Blending** | `Stacking and Blending Ensembles/` | Meta-learner training, Out-of-Fold K-Fold approach (`Stacking and Blending Demo.ipynb`) | Advanced |
+| **Comprehensive Guide** | `README.md (Complete Notes)` | Theory, algorithmic derivations, code recipes, & interview QA | Reference |
 
 ---
 
@@ -73,7 +86,23 @@ Organized logically from basic aggregation to state-of-the-art gradient boosting
 │   │   ├── adaboost-hyperparameter.ipynb
 │   │   ├── adaboost_demo.ipynb
 │   │   └── README.md
+│   ├── Gradient Boosting/
+│   │   ├── gradient_boost_step_by_step.ipynb
+│   │   ├── gradient_boosting_classification.ipynb
+│   │   ├── gradient_boosting_classification_demo.ipynb
+│   │   └── README.md
+│   ├── XGBOOST/
+│   │   ├── Wholesale-customers-data.csv
+│   │   ├── XGboost_ A Scalable Tree Boosting System.pdf
+│   │   ├── XGboost_example.ipynb
+│   │   └── README.md
 │   └── README.md
+├── Stacking and Blending Ensembles/
+│   ├── K-Fold Approch/
+│   │   └── README.md
+│   ├── heart.csv
+│   ├── README.md
+│   └── Stacking and Blending Demo.ipynb
 ├── Voting Ensemble/
 │   ├── Iris.csv
 │   ├── README.md
