@@ -1,19 +1,32 @@
 # 🚀 Machine Learning Journey: Zero to Hero
 
+## 🤖 Machine Learning
+
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-red.svg?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-green.svg?style=for-the-badge)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-Gradient_Boosting-yellow.svg?style=for-the-badge)](https://catboost.ai/)
+[![Imbalanced Learn](https://img.shields.io/badge/Imbalanced--Learn-Class_Imbalance-purple.svg?style=for-the-badge)](https://imbalanced-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-blue.svg?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical_Modeling-blue.svg?style=for-the-badge)](https://www.statsmodels.org/)
+[![Feature Engine](https://img.shields.io/badge/Feature--Engine-Feature_Engineering-green.svg?style=for-the-badge)](https://feature-engine.trainindata.com/)
+[![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Tuning-4B32C3.svg?style=for-the-badge)](https://optuna.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-ML_Experiment_Tracking-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+
+## 📊 Data Processing for Machine Learning
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.3%2B-000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C.svg?style=for-the-badge)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0.svg?style=for-the-badge)](https://seaborn.pydata.org/)
+
 
 Welcome to the **Machine Learning Journey** repository! This is a complete, hands-on learning roadmap and code repository documenting the end-to-end path from fundamental Python programming to advanced Supervised & Unsupervised Machine Learning algorithms, Feature Engineering pipelines, Optimization engines, Web Scraping, REST APIs, Model Deployments, and Visual Infographics.
 
 > 💡 **Repository Mission**: Provide clear, beginner-friendly yet mathematically rigorous notebooks, production-grade pipelines, custom algorithms built from scratch, interactive dashboards, real-world datasets, and dedicated documentation (`README.md`) for every core topic in machine learning.
 
-> [!TIP]
-> ### 📢 Actively Maintained & Community-Driven Evolution
-> **This repository is actively maintained and continuously evolving!** It will regularly get updated with brand-new projects, emerging concepts, and advanced machine learning algorithms **based on your suggestions and contributions**. Whether you want a specific real-world project, a deep-dive algorithm guide, or an interactive tool, your input directly drives future additions. Star (⭐) and Watch the repository to stay updated with every new release!
+> 🧠 **Explore the Deep Learning Journey**: Looking to level up into Neural Networks, Deep Learning architectures, Computer Vision, and NLP? Continue your journey in our companion repository: **[Deep Learning Journey](https://github.com/swapnil3104/deep-learning-journey)**! 🚀
 
 ---
 
@@ -47,105 +60,11 @@ Explore every module below to access hands-on notebooks, scripts, sample dataset
 | **22** | [`22_Decision Tree`](./22_Decision%20Tree) | • [`Classification Tree Demo`](./22_Decision%20Tree/Decision%20Tree%20Classification%20Demo.ipynb)<br>• [`Regression Trees`](./22_Decision%20Tree/Regression%20Tree/)<br>• [`dtreeviz Interactive Visualizations`](./22_Decision%20Tree/dtreeviz%20library/) | Entropy, Information Gain, Gini Impurity, Cost-Complexity Pruning, `dtreeviz` | [📖 Overview](./22_Decision%20Tree/README.md) |
 | **23** | [`23_Ensemble Techniques`](./23_Ensemble%20Techniques) | • [`Bagging Ensemble`](./23_Ensemble%20Techniques/Bagging%20Ensemble/) ([`Bagging`](./23_Ensemble%20Techniques/Bagging%20Ensemble/Bagging/), [`Random Forest`](./23_Ensemble%20Techniques/Bagging%20Ensemble/Random%20Forest/))<br>• [`Boosting`](./23_Ensemble%20Techniques/Boosting/) ([`AdaBoost`](./23_Ensemble%20Techniques/Boosting/Adaboost%20Classifier/), [`Gradient Boosting`](./23_Ensemble%20Techniques/Boosting/Gradient%20Boosting/), [`XGBoost`](./23_Ensemble%20Techniques/Boosting/XGBOOST/))<br>• [`Stacking & Blending`](./23_Ensemble%20Techniques/Stacking%20and%20Blending%20Ensembles/) ([`K-Fold Approach`](./23_Ensemble%20Techniques/Stacking%20and%20Blending%20Ensembles/K-Fold%20Approch/))<br>• [`Voting Ensemble`](./23_Ensemble%20Techniques/Voting%20Ensemble/) | Wisdom of Crowds, Variance Reduction, Residual Optimization, Out-of-Bag (OOB), XGBoost | [📖 Overview](./23_Ensemble%20Techniques/README.md) |
 | **24** | [`24_K-Means Clustering Algorithm`](./24_K-Means%20Clustering%20Algorithm) | • [`K-Means Complete Guide`](./24_K-Means%20Clustering%20Algorithm/README.md)<br>• [`Centroid Math & Voronoi Partitions`](./24_K-Means%20Clustering%20Algorithm/README.md#-6-mathematical-foundation)<br>• [`K-Means++ & Elbow Method`](./24_K-Means%20Clustering%20Algorithm/README.md#-8-initialization-methods)<br>• [`Customer Segmentation Mini-Project`](./24_K-Means%20Clustering%20Algorithm/README.md#-22-mini-project-customer-segmentation) | Unsupervised Clustering, Centroids, WCSS / Inertia, Silhouette Score, Mini-Batch K-Means | [📖 Overview](./24_K-Means%20Clustering%20Algorithm/README.md) |
+| **25** | [`25_Agglomerative Hierarchical Clustering`](./25_Agglomerative%20Hierarchical%20Clustering) | • [`Agglomerative Clustering Notebook`](./25_Agglomerative%20Hierarchical%20Clustering/agglomerative-clustering.ipynb)<br>• [`Shopping Customer Dataset`](./25_Agglomerative%20Hierarchical%20Clustering/hierarchical-clustering-with-python-and-scikit-learn-shopping-data.csv)<br>• [`Dendrograms & Linkage Criteria`](./25_Agglomerative%20Hierarchical%20Clustering/README.md#-7-linkage-criteria)<br>• [`Hierarchical Customer Segmentation`](./25_Agglomerative%20Hierarchical%20Clustering/README.md#-22-mini-project-hierarchical-customer-segmentation) | Bottom-Up Merging, Single/Complete/Average/Ward Linkage, Dendrograms, SciPy, Scikit-Learn | [📖 Overview](./25_Agglomerative%20Hierarchical%20Clustering/README.md) |
+| **26** | [`26_DBSCAN Clustering Algorithms`](./26_DBSCAN%20Clustering%20Algorithms) | • [`DBSCAN Hands-on Demo`](./26_DBSCAN%20Clustering%20Algorithms/dbscan_demo.ipynb)<br>• [`Core, Border & Noise Concepts`](./26_DBSCAN%20Clustering%20Algorithms/README.md#3--core-terminology)<br>• [`K-Distance Graph & Epsilon Selection`](./26_DBSCAN%20Clustering%20Algorithms/README.md#10--choosing-eps-and-min_samples)<br>• [`Arbitrary & Non-Spherical Clusters`](./26_DBSCAN%20Clustering%20Algorithms/README.md#12--visualizing-clusters-and-noise) | Density-Based Clustering, $\epsilon$-Neighborhood, `min_samples`, Outlier Isolation, Arbitrary Shapes | [📖 Overview](./26_DBSCAN%20Clustering%20Algorithms/README.md) |
+| **27** | [`27_Imbalanced Data in Machine Learning`](./27_Imbalanced%20Data%20in%20Machine%20Learning) | • [`Imbalanced Data Notebook`](./27_Imbalanced%20Data%20in%20Machine%20Learning/imbalanced_data_yt.ipynb)<br>• [`SMOTE & Resampling Methods`](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md#9--resampling-techniques)<br>• [`Cost-Sensitive Class Weights`](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md#10--class-weights-and-cost-sensitive-learning)<br>• [`Leak-Free Pipelines & PR-AUC`](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md#12--train-test-splitting-and-cross-validation) | Accuracy Paradox, SMOTE, ADASYN, `imbalanced-learn`, Precision-Recall AUC, Cost-Sensitive Learning | [📖 Overview](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md) |
+| **28** | [`28_Hyperparameter Tuning using Optuna`](./28_Hyperparameter%20Tuning%20using%20Optuna) | • [`Optuna Basics Notebook`](./28_Hyperparameter%20Tuning%20using%20Optuna/optuna_basics_yt.ipynb)<br>• [`Foundational Optuna Paper (PDF)`](./28_Hyperparameter%20Tuning%20using%20Optuna/1907.10902v1.pdf)<br>• [`TPE In-Depth Paper (PDF)`](./28_Hyperparameter%20Tuning%20using%20Optuna/2304.11127v5.pdf)<br>• [`Bayesian TPE & Trial Pruning`](./28_Hyperparameter%20Tuning%20using%20Optuna/README.md#11--samplers-and-search-strategies) | Define-by-Run API, Tree-structured Parzen Estimator (TPE), Automated Pruning, Visualizations | [📖 Overview](./28_Hyperparameter%20Tuning%20using%20Optuna/README.md) |
 | **Bonus** | [`Machine Learning Cheat Sheet`](./Machine%20Learning%20Cheat%20Sheet) | • [`24 High-Resolution Reference Posters`](./Machine%20Learning%20Cheat%20Sheet/README.md) | Visual Infographic Cheat Sheets covering Algorithms, Math Derivations, and Metrics | [📖 Overview](./Machine%20Learning%20Cheat%20Sheet/README.md) |
-
----
-
-## 🗺️ Learning Roadmap Phases & Subtopic Breakdown
-
-The repository is structured into 5 progressive learning phases. Every subtopic links directly to its folder or hands-on notebook:
-
-```mermaid
-flowchart TD
-    Phase1["Phase 1: Foundations & Data Extraction<br/>(Python, Matplotlib, API, Scraping, CSV, JSON)"]
-    Phase2["Phase 2: Exploratory Data Analysis<br/>(EDA, Seaborn, Pandas Profiling)"]
-    Phase3["Phase 3: Preprocessing & Pipelines<br/>(Feature Engineering, Imputation, Pipelines, Outliers)"]
-    Phase4["Phase 4: Core Models & Optimization<br/>(Linear Reg, Gradient Descent, Ridge, Logistic, Evaluation)"]
-    Phase5["Phase 5: Ensembles, Clustering & Deployment<br/>(Naive Bayes, KNN, SVM, Decision Trees, Ensembles, K-Means, Web Apps)"]
-
-    Phase1 --> Phase2
-    Phase2 --> Phase3
-    Phase3 --> Phase4
-    Phase4 --> Phase5
-```
-
-### 🔹 Phase 1: Foundations & Data Harvesting (`01` – `06`)
-* **[`01_Python`](./01_Python)**: Python syntax, [`Variables`](./01_Python/01_Variables.ipynb), [`Data Types`](./01_Python/02_Datatype.ipynb), [`Operators`](./01_Python/03_Python%20Operators.ipynb), [`Lists`](./01_Python/04_List.ipynb), [`Tuples`](./01_Python/05_Tuple.ipynb), and [`Hello World script`](./01_Python/0_helloword.py).
-* **[`02_Matplotlib`](./02_Matplotlib)**: Data visualization syntax, [`Basic Plotting`](./02_Matplotlib/Basic_matplotlib.ipynb), [`Advanced Plotting`](./02_Matplotlib/Matplotlib.ipynb), custom styles, and IPL cricket player analytics datasets.
-* **[`03_API`](./03_API)**: Querying REST APIs with [`API_Fatching.ipynb`](./03_API/API_Fatching.ipynb), handling HTTP response headers, JSON serialization, and pagination loops.
-* **[`04_web scraping`](./04_web%20scraping)**: Web scraping via [`web Scraping.ipynb`](./04_web%20scraping/web%20Scraping.ipynb) and [`Example.ipynb`](./04_web%20scraping/Example.ipynb) with `BeautifulSoup4`, HTML DOM traversal, and corporate dataset harvesting.
-* **[`05_CSV`](./05_CSV)**: Tabular data processing via [`working-with-csv.ipynb`](./05_CSV/working-with-csv.ipynb) and [`CSV.ipynb`](./05_CSV/CSV.ipynb), `chunksize` streaming, encodings, and index handling.
-* **[`06_Json`](./06_Json)**: Semi-structured processing via [`json.ipynb`](./06_Json/json.ipynb) and [`Example.ipynb`](./06_Json/Example.ipynb), nested schema normalization with `pd.json_normalize()`.
-
-### 🔹 Phase 2: Exploratory Data Analysis (`07` – `08`)
-* **[`07_EDA`](./07_EDA)**: Statistical distributions via [`Univariate Analysis.ipynb`](./07_EDA/Univariate%20Analysis.ipynb), feature relationships via [`Bivariate and Multivariate Analysis.ipynb`](./07_EDA/Bivariate%20and%20Multivariate%20Analysis.ipynb), and [`Seaborn.ipynb`](./07_EDA/Seaborn.ipynb).
-* **[`08_Pandas Profiling`](./08_Pandas%20Profiling)**: Automated data diagnostics via [`Pandas Profiling .ipynb`](./08_Pandas%20Profiling/Pandas%20Profiling%20.ipynb) using `ydata-profiling` for HTML report generation, cardinality alerts, and skewness indicators.
-
-### 🔹 Phase 3: Feature Engineering & Preprocessing (`09` – `12`)
-* **[`09_Feature Engineering`](./09_Feature%20Engineering)**:
-  * Scaling: [`Normalization (MinMaxScaler)`](./09_Feature%20Engineering/01_Feature%20Scaling%20-%20Normalization/) and [`Standardization (StandardScaler)`](./09_Feature%20Engineering/02_Feature%20Scaling%20-%20Standardization/).
-  * Categorical Encoding: [`One-Hot Encoding`](./09_Feature%20Engineering/03_Encoding/Encoding%20Categorical%20Data/One%20Hot%20Encoding/) and [`Ordinal Encoding`](./09_Feature%20Engineering/03_Encoding/Encoding%20Categorical%20Data/Ordinal%20Encoding/).
-  * Numerical Encoding: [`Binning & Binarization`](./09_Feature%20Engineering/03_Encoding/Encoding%20Numerical%20Data/Binning/).
-  * Transformers: [`ColumnTransformer`](./09_Feature%20Engineering/04_Feature%20Transformtion/01_Column%20Transformer%20in%20Machine%20Learning/) and [`Mathematical / Power Transforms (Box-Cox, Yeo-Johnson)`](./09_Feature%20Engineering/04_Feature%20Transformtion/02_Mathematic%20Transformation/).
-  * Advanced Data: [`Mixed Data Handling`](./09_Feature%20Engineering/05_Mixed%20Data/), [`Date & Time Variables`](./09_Feature%20Engineering/06_Handling%20Date%20and%20Time%20Variables/), [`Feature Construction`](./09_Feature%20Engineering/07_Feature%20Construction/), and [`Curse of Dimensionality / PCA`](./09_Feature%20Engineering/08_Curse%20of%20Dimensionality/Feature%20Extration/).
-* **[`10_Handling Missing Data`](./10_Handling%20Missing%20Data)**:
-  * [`Complete Case Analysis (CCA)`](./10_Handling%20Missing%20Data/01_Remove%20Valus/) for MCAR data $< 5\%$.
-  * Simple Imputation: [`Categorical Imputer`](./10_Handling%20Missing%20Data/02_Simple%20Imputer/Categorical%20Data/) (Mode / Missing Category) and [`Numerical Imputer`](./10_Handling%20Missing%20Data/02_Simple%20Imputer/Numerical%20Data/) (Mean, Median, Arbitrary).
-  * Advanced Imputation: KNN Imputer and MICE Iterative Imputer.
-* **[`11_Machine Learning Pipelines A_Z`](./11_Machine%20Learning%20Pipelines%20A_Z)**: Constructing leak-free pipelines on Titanic data via [`titanic-using-pipeline.ipynb`](./11_Machine%20Learning%20Pipelines%20A_Z/titanic-using-pipeline.ipynb), inference with [`predict-using-pipeline.ipynb`](./11_Machine%20Learning%20Pipelines%20A_Z/predict-using-pipeline.ipynb), and model serialization in [`model/`](./11_Machine%20Learning%20Pipelines%20A_Z/model/).
-* **[`12_Outliers in Machine Learning`](./12_Outliers%20in%20Machine%20Learning)**:
-  * [`IQR Rule`](./12_Outliers%20in%20Machine%20Learning/Outlier%20Detection%20and%20Removal%20using%20the%20IQR%20Method/) for skewed features.
-  * [`Z-Score Method`](./12_Outliers%20in%20Machine%20Learning/Outlier%20Detection%20and%20Removal%20using%20Z-score%20Method/) for Gaussian features.
-  * [`Percentile Capping / Winsorization`](./12_Outliers%20in%20Machine%20Learning/Outlier%20Detection%20using%20the%20Percentile%20Method/).
-
-### 🔹 Phase 4: Core Models & Optimization (`13` – `18`)
-* **[`13_Linear Regression`](./13_Linear%20Regression)**:
-  * Models: [`Simple Multiple Regression`](./13_Linear%20Regression/Simple%20Multiple%20Regression/), [`Multiple Linear Regression`](./13_Linear%20Regression/Multiple%20Linear%20Regression/), and [`Polynomial Regression`](./13_Linear%20Regression/Polynomial%20Regression/).
-  * Metrics: [`Regression Metrics`](./13_Linear%20Regression/Regression%20metrics/) (MAE, MSE, RMSE, $R^2$, Adjusted $R^2$).
-  * Theory: [`Assumptions of Linear Regression`](./13_Linear%20Regression/Assumptions_of_Linear_Regression.ipynb) (Linearity, Homoscedasticity, Normality, Multicollinearity).
-  * Deployments & Projects: [`Salary Prediction Flask App`](./13_Linear%20Regression/Project/salary-prediction/) and [`Medical Insurance Prediction`](./13_Linear%20Regression/Project/).
-* **[`14_Gradient Descent`](./14_Gradient%20Descent)**:
-  * Optimizer variants: [`Batch, Stochastic & Mini-Batch GD`](./14_Gradient%20Descent/Types%20of%20Gradient%20Descent/).
-  * Visualizations: [`gradient-descent-3d.ipynb`](./14_Gradient%20Descent/gradient-descent-3d.ipynb) and animated contour GIFs.
-  * Algorithms: [`gradient-descent-code-from-scratch.ipynb`](./14_Gradient%20Descent/gradient-descent-code-from-scratch.ipynb).
-* **[`15_Bias Variance Trade-off`](./15_Bias%20Variance%20Trade-off)**: Error decomposition ($\text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$), underfitting vs overfitting diagnosis.
-* **[`16_Ridge Regression`](./16_Ridge%20Regression)**:
-  * Closed-form matrix solution via [`ridge-regression-from-scratch.ipynb`](./16_Ridge%20Regression/ridge-regression-from-scratch.ipynb).
-  * Gradient descent optimization via [`ridge-regression-gradient-descent.ipynb`](./16_Ridge%20Regression/ridge-regression-gradient-descent.ipynb).
-  * Hyperparameter $\alpha$ tuning via [`Ridge Regularization.ipynb`](./16_Ridge%20Regression/Ridge%20Regularization.ipynb).
-* **[`17_Logistic Regression`](./17_Logistic%20Regression)**:
-  * Intuition: [`perceptron-trick-sigmoid.ipynb`](./17_Logistic%20Regression/perceptron-trick-sigmoid.ipynb) and Log Loss formulation.
-  * Interactive Tool: [`Streamlit Hyperparameter Tuning App`](./17_Logistic%20Regression/Logistic%20Regression%20Hyperparameters/).
-  * Non-Linear & Multi-Class: [`Polynomial Features`](./17_Logistic%20Regression/Polynomial%20Features%20in%20Logistic%20Regression/) and [`Softmax Regression`](./17_Logistic%20Regression/Softmax%20Regression/).
-* **[`18_ Model Evaluation in Machine Learning`](./18_%20Model%20Evaluation%20in%20Machine%20Learning)**:
-  * Binary evaluation: [`classification-metrics-binary.ipynb`](./18_%20Model%20Evaluation%20in%20Machine%20Learning/classification-metrics-binary.ipynb) (Precision, Recall, Specificity, F1, ROC-AUC).
-  * Multi-class evaluation: [`classification-metrics-multi-mnist1.ipynb`](./18_%20Model%20Evaluation%20in%20Machine%20Learning/classification-metrics-multi-mnist1.ipynb) and [`classification-metrics-multi-iris1.ipynb`](./18_%20Model%20Evaluation%20in%20Machine%20Learning/classification-metrics-multi-iris1.ipynb).
-
-### 🔹 Phase 5: Ensembles, Clustering & Deployment (`19` – `24`)
-* **[`19_Naive Bayes Classifier`](./19_Naive%20Bayes%20Classifier)**:
-  * Step-by-step hand calculation via [`Naive Bayes Classifier From basic`](./19_Naive%20Bayes%20Classifier/Naive%20Bayes%20Classifier%20From%20basic%20-%20Play%20tennis%20dataset.ipynb).
-  * Scikit-Learn pipelines via [`Naive Bayes Classification using Algorithm`](./19_Naive%20Bayes%20Classifier/Naive%20Bayes%20Classification%20using%20Algorithm%20%E2%80%94%20Play%20Tennis%20Dataset.ipynb).
-* **[`20_K Nearest Neighbors`](./20_K%20Nearest%20Neighbors)**:
-  * Cancer diagnosis pipeline via [`knn-on-breast-cancer-dataset.ipynb`](./20_K%20Nearest%20Neighbors/knn-on-breast-cancer-dataset.ipynb).
-  * Decision surfaces & distance metrics in [`20_K Nearest Neighbors/README.md`](./20_K%20Nearest%20Neighbors/README.md).
-* **[`21_Support Vector Machines`](./21_Support%20Vector%20Machines)**:
-  * Linear SVM and margin penalty $C$ via [`SVM Demo.ipynb`](./21_Support%20Vector%20Machines/SVM%20Demo.ipynb).
-  * Kernel trick (RBF, Polynomial) and $\gamma$ tuning via [`Kernel Trick SVM.ipynb`](./21_Support%20Vector%20Machines/Kernel%20Trick%20SVM.ipynb).
-* **[`22_Decision Tree`](./22_Decision%20Tree)**:
-  * Classification trees via [`Decision Tree Classification Demo.ipynb`](./22_Decision%20Tree/Decision%20Tree%20Classification%20Demo.ipynb).
-  * Continuous target trees via [`Regression Tree/`](./22_Decision%20Tree/Regression%20Tree/).
-  * Visual node rendering via [`dtreeviz library/`](./22_Decision%20Tree/dtreeviz%20library/).
-* **[`23_Ensemble Techniques`](./23_Ensemble%20Techniques)**:
-  * Bagging & Random Forest: [`Bagging Ensemble/`](./23_Ensemble%20Techniques/Bagging%20Ensemble/) ([`Bagging`](./23_Ensemble%20Techniques/Bagging%20Ensemble/Bagging/), [`Random Forest`](./23_Ensemble%20Techniques/Bagging%20Ensemble/Random%20Forest/)).
-  * Boosting: [`Boosting/`](./23_Ensemble%20Techniques/Boosting/) ([`AdaBoost`](./23_Ensemble%20Techniques/Boosting/Adaboost%20Classifier/), [`Gradient Boosting (GBDT)`](./23_Ensemble%20Techniques/Boosting/Gradient%20Boosting/), [`XGBoost`](./23_Ensemble%20Techniques/Boosting/XGBOOST/)).
-  * Stacking & Blending: [`Stacking and Blending Ensembles/`](./23_Ensemble%20Techniques/Stacking%20and%20Blending%20Ensembles/) with [`K-Fold Approach`](./23_Ensemble%20Techniques/Stacking%20and%20Blending%20Ensembles/K-Fold%20Approch/).
-  * Voting Ensemble: [`Voting Ensemble/`](./23_Ensemble%20Techniques/Voting%20Ensemble/) (Hard vs Soft Voting).
-* **[`24_K-Means Clustering Algorithm`](./24_K-Means%20Clustering%20Algorithm)**:
-  * Unsupervised clustering foundations, centroid updates, Voronoi cell geometry, and WCSS objective minimization.
-  * Smart probabilistic centroid initialization via **K-Means++**.
-  * Hyperparameter selection using the **Elbow Method** and **Silhouette Coefficient Analysis**.
-  * Scalable clustering using **Mini-Batch K-Means** and real-world customer segmentation mini-project.
-* **[`Machine Learning Cheat Sheet`](./Machine%20Learning%20Cheat%20Sheet)**: 24 high-resolution reference posters covering all algorithms, math formulas, and evaluation metrics.
 
 ---
 
@@ -153,32 +72,6 @@ flowchart TD
 
 > 📌 **Commitment to Continuous Improvement**: This repository is actively maintained and updated on an ongoing basis. It will continue to receive brand-new production projects, modern algorithms, emerging paradigms, and interactive visualization tools.
 
-Here is what is currently planned and in active development:
-
-```text
-Machine-Learning-Journey/ (Upcoming Additions)
-├── 🎯 Unsupervised Learning Expansion:
-│   ├── Density-Based Clustering (DBSCAN & HDBSCAN)
-│   ├── Hierarchical Clustering (Agglomerative & Dendrograms)
-│   ├── Probabilistic Clustering (Gaussian Mixture Models / GMM)
-│   └── Non-linear Dimensionality Reduction (t-SNE & UMAP)
-├── 🤖 Deep Learning & Neural Networks:
-│   ├── Artificial Neural Networks (ANN) & Backpropagation Math from Scratch
-│   ├── Convolutional Neural Networks (CNN) for Computer Vision
-│   └── Recurrent Neural Networks (RNN & LSTM) for Sequential & Time-Series Data
-├── 📝 Natural Language Processing (NLP):
-│   ├── Text Preprocessing, TF-IDF, N-Grams & Word2Vec
-│   └── Transformer Architectures & HuggingFace Transfer Learning
-├── ⚙️ Production MLOps & Deployment:
-│   ├── Docker Containerization for ML Web Services
-│   ├── Experiment Tracking & Artifact Logging with MLflow
-│   ├── High-Performance REST APIs using FastAPI
-│   └── Automated Retraining & CI/CD with GitHub Actions
-└── 💼 End-to-End Industry Capstone Projects:
-    ├── Customer Churn Prediction Engine with Streamlit & FastAPI
-    ├── Credit Risk & Default Scoring System
-    └── Automated Hyperparameter Optimization Pipeline with Optuna
-```
 
 > 💡 **Community-Driven Growth**: This repository evolves directly based on **your suggestions and contributions**! If you have a specific machine learning project, an end-to-end dataset, or an advanced concept you would like to see covered, let us know:
 > - 💬 **Suggest a Concept / Project**: Open a [Feature Request Issue](https://github.com/swapnil3104/Machine-Learning-Journey/issues) with your ideas!
@@ -350,7 +243,26 @@ Machine-Learning-Journey/
 │   │   └── Stacking and Blending Demo.ipynb
 │   └── Voting Ensemble/
 ├── 24_K-Means Clustering Algorithm/
-│   └── README.md
+│   ├── README.md
+│   ├── app.py
+│   ├── kmeans-clustering-demo.ipynb
+│   ├── kmeans.py
+│   └── student_clustering.csv
+├── 25_Agglomerative Hierarchical Clustering/
+│   ├── README.md
+│   ├── agglomerative-clustering.ipynb
+│   └── hierarchical-clustering-with-python-and-scikit-learn-shopping-data.csv
+├── 26_DBSCAN Clustering Algorithms/
+│   ├── README.md
+│   └── dbscan_demo.ipynb
+├── 27_Imbalanced Data in Machine Learning/
+│   ├── README.md
+│   └── imbalanced_data_yt.ipynb
+├── 28_Hyperparameter Tuning using Optuna/
+│   ├── README.md
+│   ├── 1907.10902v1.pdf
+│   ├── 2304.11127v5.pdf
+│   └── optuna_basics_yt.ipynb
 └── Machine Learning Cheat Sheet/
     ├── README.md
     └── *.png (24 Infographic Cheat Sheets)
@@ -370,6 +282,10 @@ Machine-Learning-Journey/
 | **Breast Cancer Medical Diagnosis** | Healthcare Classification | KNN, SVM, Decision Trees, MLxtend | [`20_K Nearest Neighbors/`](./20_K%20Nearest%20Neighbors/) |
 | **Interactive Tree Visualizations** | Model Interpretability | `dtreeviz`, Decision Trees, Scikit-Learn | [`22_Decision Tree/dtreeviz library/`](./22_Decision%20Tree/dtreeviz%20library/) |
 | **Customer Segmentation with K-Means** | Unsupervised Grouping | Python, Scikit-Learn, K-Means++, Silhouette | [`24_K-Means Clustering Algorithm/`](./24_K-Means%20Clustering%20Algorithm/) |
+| **Hierarchical Customer Segmentation** | Unsupervised Customer Profiling | Scikit-Learn, SciPy, Dendrograms, Agglomerative | [`25_Agglomerative Hierarchical Clustering/`](./25_Agglomerative%20Hierarchical%20Clustering/) |
+| **Arbitrary Shape & Noise Clustering** | Density-Based Anomaly Detection | Scikit-Learn, DBSCAN, Non-Linear Geometry | [`26_DBSCAN Clustering Algorithms/`](./26_DBSCAN%20Clustering%20Algorithms/) |
+| **Fraud & Rare-Event Classification** | Imbalanced Learning & Resampling | Imbalanced-Learn, SMOTE, PR-AUC, Cost-Sensitive | [`27_Imbalanced Data in Machine Learning/`](./27_Imbalanced%20Data%20in%20Machine%20Learning/) |
+| **Bayesian Hyperparameter Optimization** | Automated ML Model Tuning | Optuna, TPE Sampler, Early Stopping Pruning | [`28_Hyperparameter Tuning using Optuna/`](./28_Hyperparameter%20Tuning%20using%20Optuna/) |
 | **Multi-Model Stacking on Heart Disease** | Advanced Ensembling | Scikit-Learn, Out-of-Fold K-Fold, Meta-Learner | [`23_Ensemble Techniques/Stacking and Blending Ensembles/`](./23_Ensemble%20Techniques/Stacking%20and%20Blending%20Ensembles/) |
 | **Gradient Descent From Scratch** | Optimization Engine | NumPy, Matplotlib 3D, Animated GIFs | [`14_Gradient Descent/`](./14_Gradient%20Descent/) |
 
@@ -431,6 +347,16 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter requests beauti
 - **Automated Profiling**: `ydata-profiling` / Pandas Profiling
 - **Web Frameworks**: Flask, Streamlit
 - **Development Environment**: Jupyter Notebook, VS Code
+
+---
+
+## 🧠 Next Step: Deep Learning Journey
+
+Looking to advance beyond classical machine learning into Artificial Neural Networks, Computer Vision, and Natural Language Processing? Check out the companion repository:
+
+👉 **[Deep Learning Journey](https://github.com/swapnil3104/deep-learning-journey)**
+
+[![Deep Learning Journey](https://img.shields.io/badge/Companion_Repository-Deep--Learning--Journey-FF6F00.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil3104/deep-learning-journey)
 
 ---
 
