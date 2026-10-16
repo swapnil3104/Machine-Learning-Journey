@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="80%" style="vertical-align: middle; border: none; padding: 5px;">
       <a href="https://github.com/swapnil3104/Machine-Learning-Journey">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=45&lines=%E2%9A%A1+MACHINE+LEARNING+JOURNEY+%3A+ZERO+TO+HERO+%F0%9F%9A%80;%F0%9F%A7%A0+ALGORITHMS+%E2%80%A2+MATHEMATICS+%E2%80%A2+PIPELINES;%F0%9F%92%A1+28+HANDS-ON+MODULES+%E2%80%A2+23+CHEAT+SHEETS;%F0%9F%94%A5+FROM+RAW+DATA+TO+MODEL+DEPLOYMENT" alt="Main Animated Headline" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=45&lines=%E2%9A%A1+MACHINE+LEARNING+JOURNEY+%3A+ZERO+TO+HERO+%F0%9F%9A%80;%F0%9F%A7%A0+ALGORITHMS+%E2%80%A2+MATHEMATICS+%E2%80%A2+PIPELINES;%F0%9F%92%A1+28%2B+HANDS-ON+MODULES+%E2%80%A2+23%2B+CHEAT+SHEETS;%F0%9F%94%A5+FROM+RAW+DATA+TO+MODEL+DEPLOYMENT" alt="Main Animated Headline" />
       </a>
       <br/>
       <a href="https://github.com/swapnil3104/Machine-Learning-Journey">
@@ -62,13 +62,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ QUICK NAVIGATION PILLS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<b><a href="#-repository-navigator--hyperlinked-subtopics">📚 28 Modules Roadmap</a></b> &nbsp;│&nbsp; 
+<b><a href="#-repository-navigator--hyperlinked-subtopics">📚 28+ Modules Roadmap</a></b> &nbsp;│&nbsp; 
 <b><a href="#-the-6-core-pillars-of-the-journey">🧭 6 Core Pillars</a></b> &nbsp;│&nbsp; 
 <b><a href="#-machine-learning-end-to-end-architecture">🗺️ Pipeline Architecture</a></b> &nbsp;│&nbsp; 
 <b><a href="#-interactive-animations--visual-previews">🎬 Visual Animations</a></b> &nbsp;│&nbsp; 
 <b><a href="#-interactive-simulators--web-explorers">🌐 Web Simulators</a></b> &nbsp;│&nbsp; 
 <b><a href="#-featured-projects--practical-applications">🚀 Real-World Projects</a></b> &nbsp;│&nbsp; 
-<b><a href="#visual-cheat-sheets">🎨 23 Cheat Sheets</a></b> &nbsp;│&nbsp; 
+<b><a href="#visual-cheat-sheets">🎨 23+ Cheat Sheets</a></b> &nbsp;│&nbsp; 
 <b><a href="#-quick-start--setup-instructions">⚡ Quick Setup</a></b>
 
 </div>
@@ -96,7 +96,7 @@
       </a>
       <br/>
       <a href="https://github.com/swapnil3104/Machine-Learning-Journey">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2400&pause=900&color=00E676&center=false&vCenter=true&width=530&height=28&lines=%E2%96%B6+28+Comprehensive+Modules+%26+Algorithms;%E2%96%B6+23+Visual+Infographics+%26+Cheat+Sheets;%E2%96%B6+Production+Pipelines+%7C+Flask+App+%7C+Streamlit+%7C+Optuna;%E2%96%B6+From+Data+Wrangling+to+Model+Deployment" alt="Creative Subtitle Animation" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2400&pause=900&color=00E676&center=false&vCenter=true&width=530&height=28&lines=%E2%96%B6+28%2B+Comprehensive+Modules+%26+Algorithms;%E2%96%B6+23%2B+Visual+Infographics+%26+Cheat+Sheets;%E2%96%B6+Production+Pipelines+%7C+Flask+App+%7C+Streamlit+%7C+Optuna;%E2%96%B6+From+Data+Wrangling+to+Model+Deployment" alt="Creative Subtitle Animation" />
       </a>
       <p style="margin-top: 10px; line-height: 1.6;">
         Welcome to your all-in-one interactive Machine Learning code laboratory and roadmap! Whether you're deriving gradient descent cost functions, building leak-free scikit-learn transformers, or tuning hyperparameter search spaces with Optuna, this repository is designed to be your hands-on guide.
@@ -225,7 +225,7 @@ Enhance your intuition by experimenting with dynamic mathematical boundaries, re
 </div>
 
 <details id="visual-cheat-sheets">
-<summary><b>🎨 Click to Expand Visual Infographic Cheat Sheets Preview (23 High-Resolution Reference Posters)</b></summary>
+<summary><b>🎨 Click to Expand Visual Infographic Cheat Sheets Preview (23+ High-Resolution Reference Posters)</b></summary>
 <br/>
 
 <div align="center">
@@ -244,7 +244,7 @@ Enhance your intuition by experimenting with dynamic mathematical boundaries, re
   </tr>
 </table>
 
-Explore all 23 visual study guides inside [`Machine Learning Cheat Sheet/`](./Machine%20Learning%20Cheat%20Sheet/README.md)!
+Explore all 23+ visual study guides inside [`Machine Learning Cheat Sheet/`](./Machine%20Learning%20Cheat%20Sheet/README.md)!
 </div>
 
 </details>
@@ -292,7 +292,7 @@ Explore every module below to access hands-on notebooks, scripts, sample dataset
 | **26** | [`26_DBSCAN Clustering Algorithms`](./26_DBSCAN%20Clustering%20Algorithms) | • [`DBSCAN Hands-on Demo`](./26_DBSCAN%20Clustering%20Algorithms/dbscan_demo.ipynb)<br>• [`Core, Border & Noise Concepts`](./26_DBSCAN%20Clustering%20Algorithms/README.md#3--core-terminology)<br>• [`K-Distance Graph & Epsilon Selection`](./26_DBSCAN%20Clustering%20Algorithms/README.md#10--choosing-eps-and-min_samples) | Density-Based Clustering, $\epsilon$-Neighborhood, `min_samples`, Outlier Isolation, Arbitrary Shapes | [📖 Overview](./26_DBSCAN%20Clustering%20Algorithms/README.md) |
 | **27** | [`27_Imbalanced Data in Machine Learning`](./27_Imbalanced%20Data%20in%20Machine%20Learning) | • [`Imbalanced Data Notebook`](./27_Imbalanced%20Data%20in%20Machine%20Learning/imbalanced_data_yt.ipynb)<br>• [`Resampling Methods & Class Weights`](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md#9--resampling-techniques) | Accuracy Paradox, Oversampling, Undersampling, Precision-Recall AUC, Cost-Sensitive Learning | [📖 Overview](./27_Imbalanced%20Data%20in%20Machine%20Learning/README.md) |
 | **28** | [`28_Hyperparameter Tuning using Optuna`](./28_Hyperparameter%20Tuning%20using%20Optuna) | • [`Optuna Basics Notebook`](./28_Hyperparameter%20Tuning%20using%20Optuna/optuna_basics_yt.ipynb)<br>• [`Foundational Optuna Paper (PDF)`](./28_Hyperparameter%20Tuning%20using%20Optuna/1907.10902v1.pdf)<br>• [`TPE In-Depth Paper (PDF)`](./28_Hyperparameter%20Tuning%20using%20Optuna/2304.11127v5.pdf) | Define-by-Run API, Tree-structured Parzen Estimator (TPE), Automated Pruning, Visualizations | [📖 Overview](./28_Hyperparameter%20Tuning%20using%20Optuna/README.md) |
-| **Bonus** | [`Machine Learning Cheat Sheet`](./Machine%20Learning%20Cheat%20Sheet) | • [`23 High-Resolution Reference Posters`](./Machine%20Learning%20Cheat%20Sheet/README.md) | Visual Infographic Cheat Sheets covering Algorithms, Math Derivations, and Metrics | [📖 Overview](./Machine%20Learning%20Cheat%20Sheet/README.md) |
+| **Bonus** | [`Machine Learning Cheat Sheet`](./Machine%20Learning%20Cheat%20Sheet) | • [`23+ High-Resolution Reference Posters`](./Machine%20Learning%20Cheat%20Sheet/README.md) | Visual Infographic Cheat Sheets covering Algorithms, Math Derivations, and Metrics | [📖 Overview](./Machine%20Learning%20Cheat%20Sheet/README.md) |
 
 ---
 
@@ -493,7 +493,7 @@ Machine-Learning-Journey/
 │   └── optuna_basics_yt.ipynb
 └── Machine Learning Cheat Sheet/
     ├── README.md
-    └── *.png (23 Infographic Cheat Sheets)
+    └── *.png (23+ Infographic Cheat Sheets)
 ```
 
 ---
