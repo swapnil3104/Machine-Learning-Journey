@@ -66,6 +66,7 @@
 <b><a href="#-the-6-core-pillars-of-the-journey">🧭 6 Core Pillars</a></b> &nbsp;│&nbsp; 
 <b><a href="#-machine-learning-end-to-end-architecture">🗺️ Pipeline Architecture</a></b> &nbsp;│&nbsp; 
 <b><a href="#-interactive-animations--visual-previews">🎬 Visual Animations</a></b> &nbsp;│&nbsp; 
+<b><a href="#-interactive-simulators--web-explorers">🌐 Web Simulators</a></b> &nbsp;│&nbsp; 
 <b><a href="#-featured-projects--practical-applications">🚀 Real-World Projects</a></b> &nbsp;│&nbsp; 
 <b><a href="#visual-cheat-sheets">🎨 23 Cheat Sheets</a></b> &nbsp;│&nbsp; 
 <b><a href="#-quick-start--setup-instructions">⚡ Quick Setup</a></b>
@@ -106,7 +107,8 @@
       <div>
         <a href="#-repository-navigator--hyperlinked-subtopics"><img src="https://img.shields.io/badge/%F0%9F%93%9A%20Explore-Roadmap-00D2FF?style=flat-square" alt="Explore Roadmap" /></a>&nbsp;
         <a href="#visual-cheat-sheets"><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Visual-Cheat%20Sheets-FF9100?style=flat-square" alt="Cheat Sheets" /></a>&nbsp;
-        <a href="#-machine-learning-end-to-end-architecture"><img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F%20Pipeline-Architecture-00E676?style=flat-square" alt="Architecture" /></a>&nbsp;
+        <a href="#-interactive-simulators--web-explorers"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Web-Simulators-00E676?style=flat-square" alt="Web Simulators" /></a>&nbsp;
+        <a href="#-machine-learning-end-to-end-architecture"><img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F%20Pipeline-Architecture-3776AB?style=flat-square" alt="Architecture" /></a>&nbsp;
         <a href="https://github.com/swapnil3104/deep-learning-journey"><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Companion-Deep%20Learning-9C27B0?style=flat-square" alt="Deep Learning Journey" /></a>
       </div>
     </td>
@@ -183,6 +185,40 @@ Experience the internal mathematical mechanics through step-by-step visualizatio
       <b>🤖 Intelligent Autonomous Co-Pilot & Inference Engine</b><br/>
       <img src="./assets/White%20Robot.gif" alt="Autonomous AI Robot" width="75%" style="border-radius: 8px;"/><br/>
       <i>Guiding learners through mathematical foundations, notebook laboratories, and model deployment.</i>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 RECOMMENDED INTERACTIVE WEB SIMULATORS & VISUALIZERS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<h3 id="-interactive-simulators--web-explorers">🌐 Recommended Interactive Web Simulators & Visualizers</h3>
+
+<p>
+Enhance your intuition by experimenting with dynamic mathematical boundaries, real-time loss functions, and interactive cluster geometry directly in your browser:
+</p>
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" style="padding: 16px; vertical-align: top;">
+      <a href="https://www.interactive-ml.com/" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Launch%20Simulator-Interactive--ML.com-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive ML Playground" />
+      </a>
+      <br/><br/>
+      <b>🎮 <a href="https://www.interactive-ml.com/">Interactive-ML.com</a></b>
+      <p><i>Hands-on sandbox for testing decision boundaries, KNN neighborhoods, SVM margins, and clustering dynamics in real time right in your browser.</i></p>
+    </td>
+    <td align="center" width="50%" style="padding: 16px; vertical-align: top;">
+      <a href="https://ml-visualized.com/" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%94%8D%20Explore%20Visualizer-ML--Visualized.com-00E676?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="ML Visualized Platform" />
+      </a>
+      <br/><br/>
+      <b>✨ <a href="https://ml-visualized.com/">ML-Visualized.com</a></b>
+      <p><i>Visual intuitive graphical animations, step-by-step concept breakdowns, and visual guides demystifying core machine learning algorithms.</i></p>
     </td>
   </tr>
 </table>
